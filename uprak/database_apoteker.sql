@@ -18,7 +18,7 @@ CREATE TABLE `tb_apoteker` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- Data Dummy Awal
--- Catatan kata sandi:
+-- Catatan kata sandi://
 -- apt01 : resep123 (status: 1 = Aktif)
 -- kasir_apt : bayar456 (status: 1 = Aktif)
 -- apt_cuti : istirahat (status: 0 = Nonaktif)
